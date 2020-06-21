@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f42149-0f6b-41ff-b7ab-d15d945be184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/client_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/server_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592706742791</updated>
-      <workItem from="1592712816362" duration="336000" />
+      <workItem from="1592712816362" duration="465000" />
     </task>
     <servers />
   </component>
@@ -118,9 +114,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1399" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592711152885" />
-    <state x="760" y="94" key="SettingsEditor" timestamp="1592713152233">
+    <state x="760" y="94" key="SettingsEditor" timestamp="1592713280501">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="760" y="94" key="SettingsEditor/0.0.2560.1040/2560.360.1280.680@0.0.2560.1040" timestamp="1592713152233" />
+    <state x="760" y="94" key="SettingsEditor/0.0.2560.1040/2560.360.1280.680@0.0.2560.1040" timestamp="1592713280501" />
   </component>
 </project>
