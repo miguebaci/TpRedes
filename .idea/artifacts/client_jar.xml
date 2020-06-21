@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="client.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/client_jar</output-path>
+    <root id="archive" name="TpRedes.jar">
+      <element id="module-output" name="TpRedes" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/client-jar/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
