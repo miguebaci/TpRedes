@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17f42149-0f6b-41ff-b7ab-d15d945be184" name="Default Changelist" comment="">
+    <list default="true" id="fd0568b6-b802-4d85-a2a4-5869d6bef642" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/client_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/client_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/server_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/server_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/client_jar/client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/server_jar/server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/client-jar/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/client-jar/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client-jar/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client-jar/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +96,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592709128195" />
-    <state x="1010" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592713022914">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="758" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592789183851">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="758" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592789183851" />
     <state x="1010" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1040/2560.360.1280.680@0.0.2560.1040" timestamp="1592713022914" />
-    <state x="1060" y="274" key="FileChooserDialogImpl" timestamp="1592713106374">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="795" y="274" key="FileChooserDialogImpl" timestamp="1592789190248">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="795" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592789190248" />
     <state x="1060" y="274" key="FileChooserDialogImpl/0.0.2560.1040/2560.360.1280.680@0.0.2560.1040" timestamp="1592713106374" />
     <state width="1399" height="279" key="GridCell.Tab.0.bottom" timestamp="1592711152885">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -114,9 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1399" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592711152885" />
-    <state x="760" y="94" key="SettingsEditor" timestamp="1592713280501">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="570" y="94" key="SettingsEditor" timestamp="1592789375728">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="570" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592789375728" />
     <state x="760" y="94" key="SettingsEditor/0.0.2560.1040/2560.360.1280.680@0.0.2560.1040" timestamp="1592713280501" />
   </component>
 </project>
