@@ -47,7 +47,7 @@ public class Client {
             sout.close();
             stdin.close();
         } catch (IOException e) {
-            System.out.println("Error: can't connect to server");
+            System.out.println("Error: can't connect to server, restart the application and insert a valid IP and port number");
         }
     }
 
